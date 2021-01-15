@@ -3,6 +3,5 @@
 Olá, Bem vindo ao meu livro
 
  - Strogonoff de frango
- - arroz
  - pave
 
